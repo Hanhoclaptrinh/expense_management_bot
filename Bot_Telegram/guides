@@ -1,0 +1,9 @@
+> sheet.new to open new sheet file
+> choose extension -> add script
+> paste script in folder
+> paste your bot api token
+> run chatID function to get chatID (chat something with bot before)
+> choose deploy at framecode
+> get deploy url -> paste to script
+> save and run setWebhook function
+> done
